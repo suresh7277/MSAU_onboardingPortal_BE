@@ -1,0 +1,5 @@
+package com.msau.onboard.exception;
+
+public class ResourceNotFoundException {
+
+}
